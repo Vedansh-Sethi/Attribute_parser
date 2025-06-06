@@ -33,3 +33,6 @@ Not the most scalable solution — but 100% hand-built and mentally rewarding.
 - **Tools:** VS Code, HackerRank
 
 ---
+
+![C++](https://img.shields.io/badge/language-C%2B%2B-blue)
+![status](https://img.shields.io/badge/status-learning-brightgreen)
