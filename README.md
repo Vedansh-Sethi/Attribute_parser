@@ -32,4 +32,4 @@ Not the most scalable solution — but 100% hand-built and mentally rewarding.
 - **Concepts:** Classes, vectors, string parsing, nested data management
 - **Tools:** VS Code, HackerRank
 
----k.
+---
